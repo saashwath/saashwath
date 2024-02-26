@@ -1,9 +1,8 @@
 <h1 align="center">Hey, I'm Saashwath 🤙</h1>
 <h3 align="center">A programmer & Full Stack Developer</h3>
 
-- 🌱 I’m currently **learning**.
-## About me
-[click here](https://saashwath.github.io)
+- 🌱 I’m currently **learning Springboot**.
+- About me : [click here](https://saashwath.github.io)
 ## Contact Me
 Email: [saashwath22@gmail.com](mailto:saashwath22@gmail.com)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
