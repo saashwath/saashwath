@@ -5,7 +5,10 @@
 ## About me
 [click here](https://saashwath.github.io)
 ## Contact Me
-- Email: [saashwath22@gmail.com](mailto:saashwath22@gmail.com)
-- LinkedIn: [saashwath](https://www.linkedin.com/in/yourprofile)
-- Instagram: [i_am_saas](https://www.instagram.com/i_am_saas/)
-- snap: [saashwath](https://www.snapchat.com/add/saashwath)
+Email: [saashwath22@gmail.com](mailto:saashwath22@gmail.com)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+LinkedIn: [saashwath](https://www.linkedin.com/in/yourprofile)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Instagram: [i_am_saas](https://www.instagram.com/i_am_saas/)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+snap: [saashwath](https://www.snapchat.com/add/saashwath)
